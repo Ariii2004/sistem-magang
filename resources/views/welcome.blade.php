@@ -272,7 +272,7 @@ https://templatemo.com/tm-575-leadership-event
                                         <img src="/images/avatar/ari.jpg" class="img-fluid speakers-image" alt="">
 
                                         <div class="speakers-info">
-                                            <h5 class="speakers-title mb-0">Ari</h5>
+                                            <h5 class="speakers-title mb-0">Ari sess</h5>
 
                                             <p class="speakers-text mb-0">EXP</p>
 
